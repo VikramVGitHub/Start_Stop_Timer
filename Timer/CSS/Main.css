@@ -1,0 +1,16 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+main div p{
+    font-size: 1.5rem;
+}
+
+main div ul {
+    list-style-type: none;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-around;
+}
